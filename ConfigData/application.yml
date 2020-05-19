@@ -4,6 +4,8 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka/
+my:
+  config: configuracion-valor
 
 ---
 spring:
